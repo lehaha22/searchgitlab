@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2023 二丫讲梵
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+	
+普惠生产上线
+海南发版,sql执行
+安全整改整改项梳理
+第二季度普惠访问量统计
+飞书上线申请feishuapprove需求添加excel列"执行sql语句"
+飞书上线申请时间增加年月日，时区转换不成功问题处理
+gene-image迁移风险点梳理
+jenkins动态node节点发版失败解决
+jenkins处理，构建失败处理
+sap迁移到Jenkins
+openvpn-as授权破解
+
+
+
+太保
+请求地址http://120.46.167.233:80/quickAdvance/axbw/reveipt,请求报文{"code":"1","cappno":"HAF245000052787","resdon":""}
+日志平台访问
+bi生产前端编译
+gene生产迁移
+排查测试logstash部署
