@@ -41,7 +41,7 @@ for w in ${word}; do
   ./app search -u https://gitlab.xxx.com -t ${gittoken} -w $w 
 done
 
-#./app search -u https://git.healthlink.cn -t ${gittoken} -w ${word}
+#./app search -u https://gitlab.xxx.com -t ${gittoken} -w ${word}
 ```
 
 效果如下：
